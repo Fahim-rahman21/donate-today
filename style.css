@@ -62,3 +62,55 @@ header {}
     border: 3px solid ;
 }
 /* header start  */
+ /* details start */
+ .details{ 
+    padding-top:100px ;
+ }
+ .container-2{
+    text-align: center;
+ }
+.d-h2{
+    font-family: 'Inter', sans-serif;
+    Font-style: Bold;
+    Font-size: 45px;
+    Line-height: 54px;
+    Line-height: 100%;
+    Align: Center Vertical;
+    align: Top;
+}
+.p-text{
+    font-family: 'Poppins', sans-serif;
+    Font-size: 15px;
+    Line-height: 22px;
+    padding-top: 20px;
+    Align: Center Vertical;
+    align: Top;
+    color: #707070;
+}
+.amount {
+   
+}
+.amount ul{
+   
+}
+.amount ul li{
+    list-style: none;
+}
+.amount ul li a{
+    text-decoration: none;
+   
+}
+
+ /* details end */
+/* donate sextion start */
+.donate-sextion{
+    
+}
+.container-3{
+
+}
+.wapper{
+    text-align: center;
+}
+
+/* donate sextion end */
