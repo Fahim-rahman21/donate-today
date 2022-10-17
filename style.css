@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header start  */
+header {}
+.container {
+    /* background-position: center; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(images/donation7.jpg);
+    height: 669px;
+    /* width: 1440px; */
+    /* left: 0px; */
+    /* top: 0px; */
+    /* border-radius: 0px; */
+}
+.wrapper {
+    text-align: center;
+    padding: 180px;
+}
+.h-h1 {
+    /* text-align: center; */
+    font-family: 'Inter', sans-serif;
+    font-size: Bold;
+    Font-size: 50px;
+    Line-height: 79px;
+
+    /* Align: Center Vertical; */
+    color: #FFFFFF;
+}
+.h-p-text {
+    /* text-align: center; */
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    Font-style: Regular;
+    Font-size: 14px;
+    Line-height: 22px;
+    padding-top: 10px;
+    Align: Center Vertical;
+    align: Top;
+}
+.btn {
+    /* display: inline-block; */
+    /* text-align: center; */
+    font-family: 'Inter', sans-serif;
+    Font-size: 16px;
+    Line-height: 20px;
+    /* position: absolute; */
+    margin-top: 25px;
+    padding: 16px 40px;
+    border-radius: 6px;
+    color: #ffffff;
+    background-color: #FF5959;
+    border: 0px;
+    transition: .33s;
+}
+.btn:hover{
+    color: #FF5959;
+    background-color: #FFFFFF;
+    cursor: pointer;
+    border: 3px solid ;
+}
+/* header start  */
